@@ -44,8 +44,8 @@
 ### 📊 Monitoring Tools
 
 <p align="left">
-  <a href="https://www.nagios.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nagios_logo.svg/512px-Nagios_logo.svg.png" height="50" alt="Nagios">
+<a href="https://www.nagios.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nagios_logo.svg/512px-Nagios_logo.svg.png" height="50" alt="Nagios">
 </a>
 </p>
 
