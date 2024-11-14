@@ -1,93 +1,91 @@
-<h1 align="center">Hi 👋, I'm Krushna Sonawane</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Passionate about Automating & Optimizing Processes</h3>
+<h1 align="center">Hi, I'm Krushna Sonawane <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=krish9130&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+<p align="center">
+  <samp>
+    Hello! I'm <em>Krushna Sonawane</em>, a DevOps Engineer with a strong interest in cloud computing, automation, and containerization. I'm passionate about optimizing development and deployment processes to deliver efficient and scalable solutions.
+  </samp>
+  <br/>
 </p>
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=krish9130&theme=algolia" alt="krish9130" /></p>
+
+<img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
+
+## 🔧 Skills
+
 <p align="left">
-  <a href="https://github.com/Krish9130?tab=followers">
-    <img src="https://img.shields.io/github/followers/Krish9130?label=Followers&style=social" alt="GitHub Followers"/>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="60" alt="AWS">
   </a>
-  <a href="https://github.com/Krish9130?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Krish9130?label=GitHub%20Stars&style=social" alt="GitHub Stars"/>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="60" alt="Docker">
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" height="60" alt="Kubernetes">
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="60" alt="Jenkins">
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="60" alt="Ansible">
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="60" alt="Terraform">
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="60" alt="Linux">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="60" alt="VS Code">
   </a>
 </p>
 
----
+### 📊 Monitoring Tools
 
-### 🚀 About Me
-- 🌐 Check out my portfolio at [krushna.online](https://krushna.online)
-- 💻 Explore my projects on [GitHub](https://github.com/Krish9130?tab=repositories)
-- 📝 Regularly write articles on [Medium](https://medium.com/@sonawanekrishna) sharing DevOps tips and cloud insights
-- 💬 Ask me about **AWS, DevOps, Automation**
-- 📫 Reach me at **sonawanekrishna9130@gmail.com**
-
----
-
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish9130&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish9130&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish9130&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-### 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <a href="https://grafana.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="50" alt="Grafana">
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="50" alt="Prometheus">
+  </a>
 </p>
 
----
+## 🚀 Projects
 
-### 🌱 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Setting Up an Nginx Server on EC2 with Route 53](https://medium.com/@sonawanekrishna)
-- [Creating Automated Backups for Jenkins Job Code](https://medium.com/@sonawanekrishna)
-- [Essential Git and GitHub Tips for DevOps](https://medium.com/@sonawanekrishna)
-<!-- BLOG-POST-LIST:END -->
+- **[Nginx EC2 Server Setup with Domain Routing and Route 53 Subnet Control](https://github.com/krish9130/nginx-ec2-setup)**: Configured Nginx on AWS EC2, implemented domain routing, and subnet-based access with Route 53.
+- **[React App Deployment Backup Script](https://github.com/krish9130/react-backup)**: Created a shell script for React project backups, including versioning and Jenkins integration.
+- **[Visitor Analytics in Flask](https://github.com/krish9130/visitor-tracking)**: Flask app with background logging to track IPs, visit dates, and calculate daily visitor averages.
+- **[AWS Lambda & SNS Monitoring](https://github.com/krish9130/cloudwatch-lambda-sns)**: Setup Lambda to monitor CloudWatch logs and trigger SNS for error notifications.
 
----
+## 📈 GitHub Stats
 
-### 📬 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/krushna-sonawane-9258ba21a" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://medium.com/@sonawanekrishna" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@devopswithkrushna" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/sonawanekrishna4" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/27196487/krishna-sonawane" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+<details>
+  <summary><b>💻 GitHub Profile Overview</b></summary>
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krish9130&theme=2077" alt="krish9130" /></p>
+</details>
+
+<details>
+  <summary><b>📂 My Top Languages</b></summary>
+  <p><img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krish9130&theme=aura" alt="krish9130" /></p>
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krish9130&theme=aura" alt="krish9130" /></p>
+</details>
+
+<details>
+  <summary><b>📝 Contributions & Activity</b></summary>
+  <p><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krish9130&theme=great_gatsby" alt="krish9130" /></p>
+</details>
+
+## 🌐 Connect with Me
+
+- **LinkedIn**: [Krushna Sonawane](https://www.linkedin.com/in/krushna-sonawane-9258ba21a)
+- **Medium**: [@sonawanekrishna](https://medium.com/@sonawanekrishna)
+- **Email**: [sonawanekrishna9130@gmail.com](mailto:sonawanekrishna9130@gmail.com)
+
+<p align="center">
+   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
 
----
-
-### 📊 DevOps Projects
-- **AWS Automation with Terraform**: Fully automated infrastructure setup for scalable applications using Terraform and AWS.
-- **CI/CD Pipeline**: Jenkins pipeline setup with automated testing, Docker builds, and Kubernetes deployments.
-- **Monitoring with Prometheus & Grafana**: Real-time monitoring and alerting for application health and performance.
-
-For more, check out my [GitHub Repositories](https://github.com/Krish9130?tab=repositories).
-
----
-
-### 🏆 Achievements
-- **Hackathon Winner** - XYZ Cloud Hackathon 2024
-- **Top 10%** on [HackerRank](https://www.hackerrank.com/profile/sonawanekrishna4) in Problem Solving
-- **Featured Writer** on [Medium](https://medium.com/@sonawanekrishna) for DevOps content
-
----
-
-Thank you for visiting! ✨ Happy Coding! ✨
+#### Thanks for visiting! 😊
+![VisitorCount](https://profile-counter.glitch.me/krish9130/count.svg)
