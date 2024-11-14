@@ -81,8 +81,7 @@
 <a href="https://linkedin.com/in/in/krushna-sonawane-9258ba21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/krushna-sonawane-9258ba21a" height="30" width="40" /></a>
 <a href="https://medium.com/@sonawanekrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sonawanekrishna" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@devopswithkrushna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devopswithkrushna" height="30" width="40" /></a>
-<a href="https://hub.docker.com/u/krish9130" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_Logo.svg/512px-Docker_Logo.svg.png" alt="Docker Hub Profile" height="30" width="30" />
+<a href="https://hub.docker.com/u/krish9130" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_Logo.svg/512px-Docker_Logo.svg.png" alt="Docker Hub Profile" height="30" width="30" />
 </a>
 <a href="https://www.hackerrank.com/profile/sonawanekrishna4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/sonawanekrishna4" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/27196487/krishna-sonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/27196487/krishna-sonawane" height="30" width="40" /></a>
