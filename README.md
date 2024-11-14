@@ -44,12 +44,9 @@
 ### 📊 Monitoring Tools
 
 <p align="left">
-  <a href="https://grafana.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="50" alt="Grafana">
-  </a>
-  <a href="https://prometheus.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="50" alt="Prometheus">
-  </a>
+  <a href="https://www.nagios.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nagios_logo.svg/512px-Nagios_logo.svg.png" height="50" alt="Nagios">
+</a>
 </p>
 
 ## 🚀 Projects
