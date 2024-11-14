@@ -52,7 +52,7 @@
 ## 🚀 Projects
 
 - **[Nginx EC2 Server Setup with Domain Routing and Route 53 Subnet Control](https://github.com/krish9130/nginx-ec2-setup)**: Configured Nginx on AWS EC2, implemented domain routing, and subnet-based access with Route 53.
-- **[React App Deployment Backup Script](https://github.com/krish9130/react-backup)**: Created a shell script for React project backups, including versioning and Jenkins integration.
+- **[React App Deployment Backup Script]((https://medium.com/@sonawanekrishna))**: Created a shell script for React project backups, including versioning and Jenkins integration.
 - **[Visitor Analytics in Flask](https://github.com/krish9130/visitor-tracking)**: Flask app with background logging to track IPs, visit dates, and calculate daily visitor averages.
 - **[AWS Lambda & SNS Monitoring](https://github.com/krish9130/cloudwatch-lambda-sns)**: Setup Lambda to monitor CloudWatch logs and trigger SNS for error notifications.
 
