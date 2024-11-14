@@ -45,7 +45,7 @@
 
 <p align="left">
 <a href="https://www.nagios.org/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nagios_logo.svg/512px-Nagios_logo.svg.png" height="50" alt="Nagios">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Nagios_logo.png" height="50" alt="Nagios">
 </a>
 </p>
 
