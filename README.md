@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krish9130&label=Profile%20views&color=0e75b6&style=flat" alt="krish9130" /> </p>
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Krish9130?tab=overview&from=2024-10-01&to=2024-10-31](https://github.com/Krish9130?tab=repositories)](https://github.com/Krish9130?tab=overview&from=2024-10-01&to=2024-10-31)
+- 👨‍💻 All of my projects are available at [[https://github.com/Krish9130?tab=overview&from=2024-10-01&to=2024-10-31](https://github.com/Krish9130?tab=repositories)]
 
 - 📝 I regularly write articles on [https://medium.com/@sonawanekrishna](https://medium.com/@sonawanekrishna)
 
