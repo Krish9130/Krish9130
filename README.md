@@ -1,9 +1,11 @@
-![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif)
+c![Logo](https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏻;+I'm+Krushna+Sonawane!;" />
 </h1>
 
 <h3 align="center">A passionate DevOps Engineer from India</h3>
+
+
 
 <p align="center">
   <samp>
@@ -98,6 +100,9 @@
 <a href="https://stackoverflow.com/users/users/27196487/krishna-sonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/27196487/krishna-sonawane" height="30" width="40" /></a>
 <a href="https://hub.docker.com/u/krish9130" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_Logo.svg/512px-Docker_Logo.svg.png" alt="Docker Hub Profile" height="30" width="30" /></a>
 </p>
+
+![snake gif](https://github.com/arcVaishali/arcVaishali/blob/output/github-snake-dark.svg)
+
 <p align="center">
    <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </p>
