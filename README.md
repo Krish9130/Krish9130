@@ -43,10 +43,13 @@
 
 ### 📊 Monitoring Tools
 
-<p align="left">
-<a href="https://www.nagios.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Nagios_logo.png" height="50" alt="Nagios">
-</a>
+ <p float="left">
+  <a href="https://grafana.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
+  </a>
 </p>
 
 ## 🚀 Projects
@@ -55,6 +58,12 @@
 - **[React App Deployment Backup Script](https://medium.com/@sonawanekrishna/automating-directory-backups-with-version-control-in-jenkins-a-step-by-step-guide-2401df549949)**: Created a shell script for React project backups, including versioning and Jenkins integration.
 - **[Visitor Analytics in Flask](https://github.com/krish9130/visitor-tracking)**: Flask app with background logging to track IPs, visit dates, and calculate daily visitor averages.
 - **[AWS Lambda & SNS Monitoring](https://github.com/krish9130/cloudwatch-lambda-sns)**: Setup Lambda to monitor CloudWatch logs and trigger SNS for error notifications.
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krish9130&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Krish9130&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish9130&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 📈 GitHub Stats
 
